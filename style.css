@@ -132,6 +132,7 @@ p {
     border: 0.8em solid #fc4;
     padding-right: 2em;
     width: 80%;
+    color: #000;
 }
 
 .close {
